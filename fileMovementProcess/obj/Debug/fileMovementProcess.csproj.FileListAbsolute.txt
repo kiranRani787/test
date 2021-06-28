@@ -1,0 +1,14 @@
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\bin\Debug\fileMovementProcess.exe.config
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\bin\Debug\fileMovementProcess.exe
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\bin\Debug\fileMovementProcess.pdb
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.csprojAssemblyReference.cache
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.csproj.CoreCompileInputs.cache
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.exe
+C:\Users\krani\Source\Repos\fileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.pdb
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\bin\Debug\fileMovementProcess.exe.config
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\bin\Debug\fileMovementProcess.exe
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\bin\Debug\fileMovementProcess.pdb
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.csprojAssemblyReference.cache
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.csproj.CoreCompileInputs.cache
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.exe
+D:\Kiran\projectGit\FileMovementProcess\fileMovementProcess\obj\Debug\fileMovementProcess.pdb
